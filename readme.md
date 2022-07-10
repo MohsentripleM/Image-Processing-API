@@ -135,12 +135,3 @@ run ```npm install``` to install the dependencies
 
 
 
-
-# Image-Processing-API
-# Image-Processing-API
-# Image-Processing-API
-# Image-Processing-API
-# Image-Processing-API
-# Image-Processing-API
-# Image-Processing-API
-# Image-Processing-API-Project
